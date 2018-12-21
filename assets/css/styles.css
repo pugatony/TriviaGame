@@ -1,0 +1,10 @@
+body{
+	background-image: url("../images/background-image.jpg");
+  	background-repeat: repeat;
+}
+.contenedor{
+	background-color: yellow;
+}
+.thetitle{
+	text-align: center;
+}
